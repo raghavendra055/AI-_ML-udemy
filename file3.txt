@@ -1,0 +1,2 @@
+This is the data for file 3 the text file
+This new data for the testing of append feature is added here 
